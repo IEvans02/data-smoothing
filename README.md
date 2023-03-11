@@ -1,2 +1,2 @@
-# data-smoothing
+# Data Smoothing
 Collection of data smoothing techniques.
